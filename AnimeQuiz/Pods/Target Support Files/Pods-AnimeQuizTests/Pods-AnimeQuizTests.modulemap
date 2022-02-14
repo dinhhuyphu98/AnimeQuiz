@@ -1,0 +1,6 @@
+framework module Pods_AnimeQuizTests {
+  umbrella header "Pods-AnimeQuizTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
